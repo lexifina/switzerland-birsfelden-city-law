@@ -1,7 +1,7 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Wasserabgabe
 ## 3 Anlagen der öffentlichen Wasserversorgung
-## 4 Private Wasserleitungen
+## 4 ANSCHLUSSLEITUNG UND HAUSINSTALLATIONEN
 ### 4.1 Allgemeine Bestimmungen
 ### 4.2 Anschlussleitung
 ### 4.3 Hausinstallationen
