@@ -1,5 +1,5 @@
 # Einbürgerungsreglement
-Vom 20.03.2006
-Die Gemeindeversammlung,
-gestützt auf § 26 Abs. 1 des Bürgerrechtsgesetzes vom 21. Januar 1993,
+Vom 16.12.2024
+Die Gemeindeversammlung der Einwohnergemeinde Birsfelden,
+gestützt auf §34 des Bürgerrechtsgesetzes vom 1. Januar 2018,
 beschliesst:
