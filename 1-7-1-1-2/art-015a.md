@@ -3,3 +3,4 @@
 a. Zuschlagsberechtigte Arbeitszeiten (§ 3 der Personalverordnung)
 b. Rahmenzeit (§ 4)
 c. Zeiterfassungssystem (§ 12)
+3 Ferien und Urlaub (§ 35 ff. Personalreglement)
