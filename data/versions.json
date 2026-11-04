@@ -1,0 +1,957 @@
+{
+ "country": "CH-BL-BIRSFELDEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 17,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "b9f503365a91a5fe5ca467ee37e6677f5170588b0db40080059656fb1d2f739b"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-2",
+   "short": "SRS 1.1-2",
+   "title": "Verwaltungs- und Organisationsreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.1-2",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.1-2",
+     "sha256": "7bce7fd5ef114f59e6c520119bfb015e31ec6147436073d344c95ac9965cdfdc"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Verordnung über die Information",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "c9376636f1a9222f9a24f1036ef23da42e29b775939d38348ad13410fc95e520"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Verordnung über die interne Information bei besonderen Ereignissen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "1994-11-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "4401787927de911ff0393dd72b1bb422ef2fae0a66a055206fab8058f0cf82e9"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-3",
+   "short": "SRS 1.2-3",
+   "title": "ICT-Verordnung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.2-3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.2-3",
+     "sha256": "eb7f4899e60fc131fa24409979671f081ac25a45a5fb05a070f9f1a933eb7b2a"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-1",
+   "short": "SRS 1.3-1",
+   "title": "Einbürgerungsreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.3-1",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.3-1",
+     "sha256": "a33a61be0923fb3a0d6ed709a2c05e6134e5b8c675582f1049715ce94c6e6c5c"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-2",
+   "short": "SRS 1.4-2",
+   "title": "Reglement über den Prospektversand und die Benützung der Plakatständer bei Volkswahlen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.4-2",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.4-2",
+     "sha256": "ce8dd9fca55c1a4441a5564022a1f0e21458514a0b01cbb37192072b3224d40a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Reglement über die Vergütung an Behörden, Kontrollorgane, Kommissionen und nebenamtliche Funktionen der Gemeinde Birsfelden",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "3d6140264fd3ac9c560da501f26789dfc6d37e126dc1458e27672cbad5b3a863"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1",
+   "short": "SRS 1.6-1.1",
+   "title": "Verordnung zum Reglement über die Vergütung an Behörden, Kontrollorgane, Kommissionen und nebenamtliche Funktionen (Behördenreglement)",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-1.1",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-1.1",
+     "sha256": "41b322065199ccb3d1aa296137371ef7e6bb0de7910fe9c36d69aea0a036f55b"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Geschäftsordnung des Gemeinderates",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2008-11-18",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "321bc2f4405e13e0ad6b7bc7e8273b34ac22ed86610b600c58a9604f794183cf"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Reglement für die Gemeindekommission",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "88b1a94506a7ea2a5652107a7fcd9150b1c333e8f427e46e606fea42b380ec30"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Kompetenzordnung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "f9c6ca9751e06eb2bdcb865c589cd04f9e38e21c67bfee14e2e0dbfb773cb95f"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-6",
+   "short": "SRS 1.6-6",
+   "title": "Verordnung der Bau- und Planungskommission (BPK)",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.6-6",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.6-6",
+     "sha256": "b5655eab244bf530e2313c8c5fca2a0858e0334338adcd6e6dcd54afc89aa64b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "51dfdead3cd31ebaed06d1cd4e40106cb2006164c1b54f416366f300d979db86"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Verordnung zum Personalreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "22ed55f64fdcd2338b7137cbe48045c17b24c39b2f820b7ef610f317b0965e14"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2",
+   "short": "SRS 1.7-1.2",
+   "title": "Verordnung Arbeiten im Home-Office",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-1.2",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-1.2",
+     "sha256": "822450b53e5d992f9a866cb6cb57703c3bc9b2b98b16a5489c60dfa7b89d4e0f"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7-1.3",
+   "title": "Verordnung über den Schutz der Persönlichkeit (Schutz vor allen Formen von Diskriminierung, Mobbing und sexueller Belästigung)",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-1.3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-1.3",
+     "sha256": "e4e2522405001c058e1d3c8af710fcd896d82eb60b0e0886b81a024624fcfc8d"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-4",
+   "short": "SRS 1.7-1.4",
+   "title": "Feuerwehrdienst durch Gemeindepersonal während der Arbeitszeit - Richtlinien",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-1.4",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-1.4",
+     "sha256": "47ec42ad371a91ea5c0f93a0c22fcecb3cd3d21cea72445f514f4a3663b1cf79"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-3",
+   "short": "SRS 1.7-3",
+   "title": "Vereinbarung über die Organisation, die Rechte, Pflichten und Aufgaben des Personalrates",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-3",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-3",
+     "sha256": "1b0e8060328ff652d91f1169c4bc1217d1ee4b650b08814c9db3f02bbd008e12"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-4",
+   "short": "SRS 1.7-4",
+   "title": "Verordnung über das betriebliche Vorschlagswesen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/1.7-4",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/1.7-4",
+     "sha256": "a3bb8cd63523f099da26750d1aa0045bf1bcb46bfe1705c25b45275f0f9b1c1c"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die familienergänzende Kinderbetreuung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "250c8ad73305fbbb7eff78ca571a5804632e65a23a53432290d896f54a7f6325"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Reglement über die Kinder- und Jugendzahnpflege",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "07bea712b7c8a4829bde3574ed817b85a074041077f534488ef114dc2b980f5a"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Reglement betreffend die Jugendbibliothek",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "581a06fcd18cdb2007df6aa7eacdd2566a20083c603c5e481466374adea30151"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1-1",
+   "short": "SRS 4.7-1.1",
+   "title": "Verordnung zum Reglement betreffend die Freizeit- und Schulbibliothek",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.7-1.1",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.7-1.1",
+     "sha256": "843b88331d7698f95720f54b6b57ff9cfbaff291c0d1ffec56419233da173ee0"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Verordnung betreffend das Birsfelder Museum",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "5de5f0203aabf83c1906267ec5877bf7bab61c2f8cb939acf6ace9ddcbee447f"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3",
+   "short": "SRS 4.7-3",
+   "title": "Verordnung betreffend den Preis für Birsfelder Freiwilligenarbeit",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/4.7-3",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/4.7-3",
+     "sha256": "0c18864d6fbb63bde1cc668ee85b032ea6663c15d35c81fc94159dab11007410"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "2ef4a77baca86a948409767fb40ee0e1ab14832eba8385475393887e1ff5cb1c"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Reglement über die Feuerwehr",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "97c7e112b9ba669d57eb911ced8750f94953c4ef71a415e92612dd302b0866f5"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Verordnung zum Feuerwehrreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "42d8f95a940959f1c079239ea1ace694de14914ebc84a9b2ee00df97c9a675db"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Reglement betreffend die Globalbudgetierung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "6d12dd674b3bc50b96f29420d0a4fe082d2e510d3504aa4cdfd581682d0e2c83"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-2",
+   "short": "SRS 6.1-2",
+   "title": "Reglement betreffend den globalen Leistungsauftrag",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.1-2",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.1-2",
+     "sha256": "eb161f561017bdd27aa7fb2b70ba9e31b1e593bb40f3c36fa29a8030870d72e3"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Steuerreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "37b26e67e97a2b5ae5361ace73114f1db5515dd215eaa97c0ea4efa33e42ac39"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührenordnung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "b6d4906ad65c79c4982784349a428c8f912b22777b02623e07767653773c7b0c"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-1",
+   "short": "SRS 6.5-1",
+   "title": "Richtlinien für Unterstützungs- und Mitgliedschaftsbeiträge",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.5-1",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.5-1",
+     "sha256": "fafc0587967a452f89127478101155259fe252a1643bc3a61686c724db4b3b80"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Benutzungsordnung Schwimmhalle Birsfelden",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "a400538855bd8f2f754714abe919e7ed4ef39be0fd5903b571ff0483d1b72766"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Betriebsordnung zur Videoüberwachung in der Turn- und Schwimmhalle Birsfelden",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2020-11-30",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "990ba40445baac46630d632a8bfa42cc151e3a0081c5431fc25e548ee85a22f1"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Verordnung betreffend die Benützung der öffentlichen Gebäude, Anlagen und Einrichtungen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "02beb94bda9169b75bbe363d2cb68e6467ae07e806dd023078be9d56b626b79d"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Verordnung betreffend die Benützung der Sporthalle",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "cf58cf73b882571caa55a6a694be81eb5d8b34f7ce895f10507d00d017072ce9"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Verordnung betreffend die Benutzung der Sportanlage «Sternenfeld»",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "df52009d5036b007a53bcd81a047dcf8c39cab879b7c978f3656ccfaea2b1e3a"
+    }
+   ]
+  },
+  {
+   "slug": "6-8-1",
+   "short": "SRS 6.8-1",
+   "title": "Beschaffungsordnung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/6.8-1",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/6.8-1",
+     "sha256": "7cdd6b0cec9a69239efb8c61e773f0df15175c171656cf368481d6bfcd9cd94f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Reglement über die Erstellung von privaten Parkplätzen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "1989-02-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "1bddf6242e1d2106bc97d47d3a1698de7a6623e7c657ea278fbffcf13126790b"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Reglement über die Feuerungskontrolle",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "215ee3c5142b2c1376829198c42891dfabc7cfbb7512779051ebf609ff98e48b"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1-1",
+   "short": "SRS 7.3-1.1",
+   "title": "Verordnung über die Feuerungskontrolle",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.3-1.1",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.3-1.1",
+     "sha256": "dce776397b2cf75c859de3f6c1bec73a06640470dccb5f9c1814176efbf561e0"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Wasserreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "efc2f3bc55e73dd0dfa60a7c25ed45aa9a4c7e468f580ee1c398d81b41a594ae"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1",
+   "short": "SRS 7.4.3-1.1",
+   "title": "Verordung zum Wasserreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "b872c27ee6ffa7726071e1a1f288e8332e1bc469ade87e76f5db0f4e1467ec62"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "4a3d63b5964e6df868c09dd6ecdd71ddc9e989710da042576d6b33fa0ec7a28f"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Verordnung zum Abwasserreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "6d8d013771f3adc0d4eef6cada7274138c8606da6448143e92212d0b89b4ddab"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Abfallreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "89e99d7287b0924666f2ca06356b3ba5141724b9527c9616c38c063af2af86ef"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Verordnung zum Abfallreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "3c2f5dce2c991105c511ae4391c7dddd9881b82313e2301e7e27fc91ed2cc49e"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5-1",
+   "short": "SRS 7.4.5-1",
+   "title": "Reglement über das Multimedianetz (MMN)",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.5-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.5-1",
+     "sha256": "ed1d0c38965e444cc268f1034dbdfcd83a9a531c2d49056d7b4974551eb9f524"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5-1-1",
+   "short": "SRS 7.4.5-1.1",
+   "title": "Ausführungsverordnung zum Reglement über das Multimedianetz (MMN) Birsfelden.",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.4.5-1.1",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.4.5-1.1",
+     "sha256": "6e6988cc63b32f30e229e6636d4d8c548e2ec5968111d866128f80a1998ceb0e"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-3",
+   "short": "SRS 7.6-3",
+   "title": "Reglement über Reklamen und Signale",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.6-3",
+   "versions": [
+    {
+     "from": "1991-05-13",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.6-3",
+     "sha256": "bb54a8f3ac7883b0b0e85ec9065b6bed4025bcfb30048b2f64265eaf7e27231a"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1",
+   "short": "SRS 7.7-1.1",
+   "title": "Ausführungsverordnung zum Reglement über das unbeschränkte Parkieren",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/7.7-1.1",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/7.7-1.1",
+     "sha256": "cc6589dd20e891ba0f12697c1664518cb343185c440d67b34c0c7027499d7560"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Reglement über das Bestattungs- und Friedhofswesen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "8c90878d7f22b71d5e40b2092eb9a89450fc9b9bdd41304a6d28fd89a8aea25d"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Ausführungs- und Gebührenordnung zum Reglement über das Bestattungs- und Friedhofwesen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "51ece3d26222f9d18d26a3e68948d78abae655c96ee3d5d8a7e6b66782d380dd"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über die Hundehaltung",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "e61313d8ce6e67c3cc1cab665d8e6798cbe5f27993e68c2fe0d1c1df0622c090"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Treffpunkt Lavater: Benutzervorschriften",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2001-10-16",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "a36f460dfb5bf4616c426f828f2101f17bf85d8faf34d27e0c4c992694c9cc4b"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Reglement über die Begrenzung von Zusatzbeiträgen zu den Ergänzungsleistungen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "f0ba432d6cf801f14dd8507995d00e3195fbbb096c4b20b86dbbfb8c666850c9"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2-1",
+   "short": "SRS 8.7-2.1",
+   "title": "Verordnung zum Reglement über die Begrenzung von Zusatzbeiträgen zu den Ergänzungsleistungen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.7-2.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.7-2.1",
+     "sha256": "cbc6f8a6441e8babcb7104b878b44cdd104979a1fed03c3470ac6938a4b405cc"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Reglement über die Organisation der Sozialhilfe",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "3d8eabd7c4d7e546ff2612ae858ca4ea813a93a5eecb2d6da36129d11e8241ac"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3-1",
+   "short": "SRS 8.7-3.1",
+   "title": "Verordnung zum Reglement über die Organisation der Sozialhilfe",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.7-3.1",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.7-3.1",
+     "sha256": "8f82bf0d0cb2dff7018968bd804d37d87abe0b95d7d38d2868f0af4ceb9fa025"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1",
+   "short": "SRS 8.8-1",
+   "title": "Reglement über die Ausrichtung von Mietzinsbeiträgen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.8-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.8-1",
+     "sha256": "9a4bf3f67f348a29fd4c8c22f4b455a1999540321107df0a6e8c43d8cf59cbda"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1-1",
+   "short": "SRS 8.8-1.1",
+   "title": "Verordnung zum Reglement über die Ausrichtung von Mietzinsbeiträgen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.8-1.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.8-1.1",
+     "sha256": "6511f7f97b5b045e4d77b43e11b6c31ea7b8d5606a2d615debaa6c9adbdf6f76"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-2",
+   "short": "SRS 8.8-2",
+   "title": "Reglement zur Förderung der Wohnungsvielfalt und des preisgünstigen Wohnangebots",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.8-2",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.8-2",
+     "sha256": "170a96790a852d10aeb94fe94b423680bd1e63412ba2717f0821cc5441339675"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-3",
+   "short": "SRS 8.8-3",
+   "title": "Gemeinderatsverordnung über den Wohnungsexperten bzw. die Wohnungsexpertin",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/8.8-3",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/8.8-3",
+     "sha256": "2892aaf21923c240d68c1631022ff5120e857637c37621fa36ba99e7e60d6752"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Marktreglement",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2000-01-04",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "4eaf23c3fe2943ab407870a4488773193f788143f62ae67054b2ef7c404fb62a"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-2",
+   "short": "SRS 9.5-1.2",
+   "title": "Vollzugs- und Gebührenordnung zum Marktreglement der Einwohnergemeinde Birsfelden",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/9.5-1.2",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/9.5-1.2",
+     "sha256": "703923b4bf9dd1c639e8b8e10daf2d75b9f721cd6cf6883cd28d35518d8936d6"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2",
+   "short": "SRS 9.5-2",
+   "title": "Verordnung über die Erteilung von Gelegenheitswirtschaftsbewilligungen und Freinachtbewilligungen",
+   "url": "https://lex.birsfelden.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://lex.birsfelden.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "22237a483323fe7270774466f5dac759b7a451c0d8f6d6de14c97d27ca5c1028"
+    }
+   ]
+  }
+ ]
+}

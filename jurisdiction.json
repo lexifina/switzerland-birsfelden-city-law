@@ -1,0 +1,11 @@
+{
+  "path": "ch-bl-birsfelden",
+  "code": "CH-BL-BIRSFELDEN",
+  "name": "Birsfelden (city)",
+  "level": "municipality",
+  "parent": "ch-bl",
+  "repo": "https://github.com/lexifina/switzerland-birsfelden-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 1 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
