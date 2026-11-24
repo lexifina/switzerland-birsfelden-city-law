@@ -9,7 +9,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 ### Birsfelden: Systematische Sammlung (lex.birsfelden.ch) · `switzerland/basel-landschaft/birsfelden/acts`
 
 - Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **noch nicht**.
-- Vorschriften hier: 1; aktuell gegenüber der Quelle: 1; an der Quelle geändert seit der Fassung hier: 83; nicht mehr an der Quelle: 0.
+- Vorschriften hier: 1; aktuell gegenüber der Quelle: 1; an der Quelle geändert seit der Fassung hier: 73; nicht mehr an der Quelle: 0.
 - Nicht veröffentlicht: 83 (neu an der Quelle, hier noch nicht veröffentlicht: 73, hier vorhanden, an der Quelle nicht mehr: 10); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

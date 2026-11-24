@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Birsfelden only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:01 UTC, Birsfelden: systematic collection (lex.birsfelden.ch): 112 addresses read; 83 added, 0 changed, 0 removed; the check failed; 83 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 14:34 UTC, Birsfelden: systematic collection (lex.birsfelden.ch): 77 addresses read; 73 added, 0 changed, 0 removed; the check failed; 83 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -18,6 +18,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:33](checks/2026-11.md#ch-lexwork-birsfelden-city-20261124t143330z) | lexwork-birsfelden-city | 77 | 73 | 0 | 0 | 83 (0) | the check failed | — |
 | [2026-11-24 11:59](checks/2026-11.md#ch-lexwork-birsfelden-city-20261124t115947z) | lexwork-birsfelden-city | 112 | 83 | 0 | 0 | 83 (0) | the check failed | — |
 
 ## Check it yourself

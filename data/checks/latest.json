@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T12:01:46Z",
+ "generated": "2026-11-24T15:04:41Z",
  "latest": {
   "lexwork-birsfelden-city|switzerland/basel-landschaft/birsfelden/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 1,
@@ -11,26 +11,26 @@
     "held": 1,
     "not_at_source": 10,
     "out_of_scope": 22,
-    "pending": 83,
+    "pending": 73,
     "repo": 1,
-    "source_in_scope": 84
+    "source_in_scope": 74
    },
-   "check_id": "ch-lexwork-birsfelden-city-20261124T115947Z",
+   "check_id": "ch-lexwork-birsfelden-city-20261124T143330Z",
    "commits": null,
    "corpus": "switzerland/basel-landschaft/birsfelden/acts",
-   "error": "ValueError: country.path or parent_path is required for CH-BL-BIRSFELDEN",
-   "finished": "2026-11-24T12:01:45Z",
+   "error": "RuntimeError: the kit's append gate: error: published head a57c385122d5f517007d622b98c8938855518f3f timestamp 1795521706 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:34:53Z",
    "flags": [],
    "gap": 83,
-   "note": "lex.birsfelden.ch: index of 106 acts (106 in force); held 1; 83 in force and in scope not held yet, 22 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 1 held acts compared with the collection this check (every one within 7 days); 83 candidate acts read",
+   "note": "lex.birsfelden.ch: index of 106 acts (106 in force); held 1; 73 in force and in scope not held yet, 22 out of scope (land-use plans, concessions, directives, forms: as the builder), 10 published only as PDF; 1 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 112,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 77,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -63,7 +63,6 @@
      "5.1-1",
      "5.5-1",
      "5.5-1.1",
-     "5.5-1.2",
      "6.1-1",
      "6.1-2",
      "6.3-1",
@@ -76,13 +75,6 @@
      "6.8-1",
      "7.1-1",
      "7.1-2",
-     "7.1-3",
-     "7.1-4",
-     "7.1-5",
-     "7.1-6",
-     "7.1-7",
-     "7.1-8",
-     "7.1-9",
      "7.3-1",
      "7.3-1.1",
      "7.4.3-1",
@@ -93,7 +85,6 @@
      "7.4.4-1.1",
      "7.4.5-1",
      "7.4.5-1.1",
-     "7.4.5-1.2",
      "7.6-1",
      "7.6-3",
      "7.6-3.1",
@@ -109,7 +100,6 @@
      "8.7-2.1",
      "8.7-3",
      "8.7-3.1",
-     "8.7-4",
      "8.8-1",
      "8.8-1.1",
      "8.8-2",
@@ -123,7 +113,7 @@
    },
    "snapshot": "106 entries, 106 in force (lex.birsfelden.ch)",
    "source": "lexwork-birsfelden-city",
-   "started": "2026-11-24T11:59:47Z",
+   "started": "2026-11-24T14:33:30Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -133,7 +123,7 @@
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 10,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
