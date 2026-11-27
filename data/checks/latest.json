@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:17:54Z",
+ "generated": "2026-11-27T07:12:13Z",
  "latest": {
   "lexwork-birsfelden-city|switzerland/basel-landschaft/birsfelden/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 72,
     "source_in_scope": 74
    },
-   "check_id": "ch-lexwork-birsfelden-city-20261126T054810Z",
+   "check_id": "ch-lexwork-birsfelden-city-20261127T055012Z",
    "commits": null,
    "corpus": "switzerland/basel-landschaft/birsfelden/acts",
    "error": null,
-   "finished": "2026-11-26T05:48:37Z",
+   "finished": "2026-11-27T05:50:39Z",
    "flags": [
     {
-     "detail": "1 of 18 texts differ from the source",
+     "detail": "1 of 22 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -55,7 +55,7 @@
    },
    "snapshot": "106 entries, 106 in force (lex.birsfelden.ch)",
    "source": "lexwork-birsfelden-city",
-   "started": "2026-11-26T05:48:10Z",
+   "started": "2026-11-27T05:50:12Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -78,7 +78,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 12,
-    "versions_checked": 18,
+    "versions_checked": 22,
     "versions_differ": 1
    }
   }
