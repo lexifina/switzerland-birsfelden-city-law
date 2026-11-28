@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Birsfelden only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:50 UTC, Birsfelden: systematic collection (lex.birsfelden.ch): 22 addresses read; 2 added, 0 changed, 0 removed; changes found; 12 not published, 0 of them with no reason. Flags: `verify-differ`.
+**Last check:** 2026-11-28 05:48 UTC, Birsfelden: systematic collection (lex.birsfelden.ch): 22 addresses read; 2 added, 0 changed, 0 removed; changes found; 12 not published, 0 of them with no reason. Flags: `verify-differ`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Birsfelden: systematic collection (lex.birsfelden.ch)](https://lex.birsfelden.ch/) | `<act>/` | daily | 2026-11-27 05:50 UTC | changes found | watched |
+| [Birsfelden: systematic collection (lex.birsfelden.ch)](https://lex.birsfelden.ch/) | `<act>/` | daily | 2026-11-28 05:48 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:47](checks/2026-11.md#ch-lexwork-birsfelden-city-20261128t054747z) | lexwork-birsfelden-city | 22 | 2 | 0 | 0 | 12 (0) | changes found `verify-differ` | — |
 | [2026-11-27 05:50](checks/2026-11.md#ch-lexwork-birsfelden-city-20261127t055012z) | lexwork-birsfelden-city | 22 | 2 | 0 | 0 | 12 (0) | changes found `verify-differ` | — |
 | [2026-11-26 05:48](checks/2026-11.md#ch-lexwork-birsfelden-city-20261126t054810z) | lexwork-birsfelden-city | 22 | 2 | 0 | 0 | 12 (0) | changes found `verify-differ` | — |
 | [2026-11-25 06:00](checks/2026-11.md#ch-lexwork-birsfelden-city-20261125t060020z) | lexwork-birsfelden-city | 78 | 73 | 0 | 0 | 12 (0) | changes found `verify-differ` | [95](https://github.com/lexifina/switzerland-birsfelden-city-law/compare/62cb35482f67...405cf8b427b3) |
